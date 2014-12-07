@@ -1,0 +1,23 @@
+﻿
+<div class="notification" data-bind="visible: newPosts().length > 0"><a data-bind="    click: loadNewPosts"> <span data-bind="    text: newPosts().length"></span> new post(s) by
+                                                                         @*<div data-bind="foreach:posts">
+                                                                             <span data-bind="text:PostedByName"></span> 
+                                                                         </div>*@ 
+    </a></div>
+
+<div data-bind="foreach: posts">
+    <p>
+        <a class="notification" data-bind="click:loadNewLikes,visible:NewLikes().length>0">
+            <span data-bind=" text: NewLikes().length"></span>  new like notification
+        </a>
+    </p>
+    <br />
+    <p>
+        <a class="notification" data-bind="click: loadNewComments, visible: NewComments().length > 0">
+            <span data-bind="    text: NewComments().length"></span> new comment notification
+        </a>
+    </p>
+</div>
+
+
+

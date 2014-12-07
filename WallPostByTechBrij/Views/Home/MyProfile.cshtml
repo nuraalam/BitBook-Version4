@@ -1,0 +1,29 @@
+﻿
+<h3>Share something</h3>
+<hr />
+
+<form class="form-horizontal" role="form" name="AddPostForm" novalidate>
+    <textarea style="float: none" placeholder="What's on your mind?" class="form-control col-lg-9" ng-model="post" name="Message" id="Message" ng-required="true"></textarea>
+    <br />
+    <div><input type="submit" class="btn btn-success" value="Share Post" ng-click="addPost=post" /></div>
+
+</form>
+<br />
+<label>{{name}}</label>
+<input type="number" data-ng-model="firstNumber" />
+<input type="number" data-ng-model="seccondNumber" />
+<button type="button" data-ng-click="add()">Add</button>
+<span>{{sum}}</span>
+
+
+
+
+
+
+@section Scripts {
+
+  
+    <script src="~/App/Scripts/App.js"></script>
+   
+
+}

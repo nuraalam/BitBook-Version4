@@ -1,0 +1,843 @@
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\EntityFramework.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Spatial.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Helpers.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Mvc.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Optimization.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebGrease.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.Data.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\EntityFramework.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Helpers.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Mvc.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.Data.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\System.Spatial.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\EntityFramework.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Spatial.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Helpers.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Mvc.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Optimization.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebGrease.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.Data.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\EntityFramework.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Helpers.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Mvc.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.Data.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\System.Spatial.xml
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+E:\Project Test\WallPost\WallPostByTechBrij v0 with full\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Owin.dll
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Project Test\WallPost\WallPostByTechBrij\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+H:\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+H:\newProject\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\newProject\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Net.Http.Formatting.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.WebHost.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+C:\Users\PC21\Desktop\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version3\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll.config
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WallPostByTechBrij.pdb
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Antlr3.Runtime.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Owin.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Optimization.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WebGrease.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\EntityFramework.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.Data.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\WebMatrix.WebData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.Core.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Web.Http.OData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.Edm.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Microsoft.Data.OData.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\System.Spatial.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\Mono.Math.xml
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\de\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\es\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\fr\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\it\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ja\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ko\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\ru\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.dll
+C:\Users\Hafiz\Desktop\BitBook Version\Version4(ImplementSoft)\realtime-wall-post-comment\WallPostByTechBrij\obj\Debug\WallPostByTechBrij.pdb
